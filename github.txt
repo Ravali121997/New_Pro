@@ -1,0 +1,16 @@
+Jyothi172000
+jyothi.m@genailakes.com
+
+git config --global user.name "Jyothi172000"
+git config --global user.email "jyothi.m@genailakes.com"
+git config --list
+cd /c/Users/asus/Desktop/aws_hire  ("foloder address")
+git init
+git remote add origin https://github.com/Jyothi172000/chef_assistant.git  (link)
+git remote -v
+git add .
+git status
+git commit -m "Added resume evaluation service with Gemini integration" (add name with using )
+git branch -M main
+git push -u origin main
+git push
